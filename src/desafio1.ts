@@ -1,5 +1,3 @@
-// Como podemos rodar isso em um arquivo .ts sem causar erros? 
-
 interface Funcionario {
     codigo: number,
     nome: string

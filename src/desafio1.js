@@ -1,5 +1,3 @@
-// Como podemos rodar isso em um arquivo .ts sem causar erros? 
-;
 var funcionarioObj = {};
 funcionarioObj.codigo = 10;
 funcionarioObj.nome = 'João';
